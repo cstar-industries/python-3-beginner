@@ -6,4 +6,4 @@ Welcome to Python 3 Beginner! You will find here all the material for the Python
 
 # Copyright notice
 
-> All material &copy; Cstar Industries unless otherwise stated.
+All material **&copy; Cstar Industries** unless otherwise stated.
