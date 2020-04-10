@@ -2,7 +2,7 @@
 
 The class material is in this directory's files. Open the files directly from the repository, or use the links provided below.
 
-- Slides ([PDF]() | [PowerPoint]())
+- Slides ([PDF](First%20Steps%20-%20Slides.pdf) | [PowerPoint](First%20Steps%20-%20Slides.pptx))
 - [Chapter 01: Live demo](First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb))
 - [Chapter 01: Exercises](First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb))
 - [Chapter 02: Live demo](First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb))
