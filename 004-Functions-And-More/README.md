@@ -32,5 +32,5 @@ The class material is in this directory's files. Open the files directly from th
 [chap-03-exercises-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/004-Functions-And-More/Functions%20And%20More%20-%20Chap%2003%20-%20Exercises.ipynb
 [chap-03-exercises-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/004-Functions-And-More/Functions%20And%20More%20-%20Chap%2003%20-%20Exercises.ipynb
 [workshop]: Functions%20And%20More%20-%20Workshop.ipynb
-[wokshop-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/004-Functions-And-More/Functions%20And%20More%20-%20Workshop.ipynb
+[workshop-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/004-Functions-And-More/Functions%20And%20More%20-%20Workshop.ipynb
 [workshop-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/004-Functions-And-More/Functions%20And%20More%20-%20Workshop.ipynb
