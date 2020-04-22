@@ -2,11 +2,35 @@
 
 The class material is in this directory's files. Open the files directly from the repository, or use the links provided below.
 
-- Slides ([PDF](First%20Steps%20-%20Slides.pdf) | [PowerPoint](First%20Steps%20-%20Slides.pptx))
-- [Chapter 01: Live demo](First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb))
-- [Chapter 01: Exercises](First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb))
-- [Chapter 02: Live demo](First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb))
-- [Chapter 02: Exercises](First%20Steps%20-%20Chap%2002%20-%20Exercises.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Exercises.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Exercises.ipynb))
-- [Chapter 03: Live demo](First%20Steps%20-%20Chap%2003%20-%20Demo.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Demo.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Demo.ipynb))
-- [Chapter 03: Exercises](First%20Steps%20-%20Chap%2003%20-%20Exercises.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Exercises.ipynb) | [Notebook](https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Exercises.ipynb))
-- [Workshop](First%20Steps%20-%20Workshop.ipynb) ([Colab](https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Workshop.ipynb) | [Notebook](https://raw.githubusercontent.com/cstar-industries/python-3-beginner/master/001-First-Steps/First%20Steps%20-%20Workshop.ipynb))
+- Slides ([PDF][slides-pdf] | [PowerPoint][slides-pptx])
+- [Chapter 01: Live Demo][chap-01-demo] ([Colab][chap-01-demo-colab] | [Notebook][chap-01-demo-notebook])
+- [Chapter 01: Exercises][chap-01-exercises] ([Colab][chap-01-exercises-colab] | [Notebook][chap-01-exercises-notebook])
+- [Chapter 02: Live Demo][chap-02-demo] ([Colab][chap-02-demo-colab] | [Notebook][chap-02-demo-notebook])
+- [Chapter 02: Exercises][chap-02-exercises] ([Colab][chap-02-exercises-colab] | [Notebook][chap-02-exercises-notebook])
+- [Chapter 03: Live Demo][chap-03-demo] ([Colab][chap-03-demo-colab] | [Notebook][chap-03-demo-notebook])
+- [Chapter 03: Exercises][chap-03-exercises] ([Colab][chap-03-exercises-colab] | [Notebook][chap-03-exercises-notebook])
+- [Workshop][workshop] ([Colab][workshop-colab] | [Notebook][workshop-notebook])
+
+[slides-pdf]: First%20Steps%20-%20Slides.pdf
+[slides-pptx]: First%20Steps%20-%20Slides.pptx
+[chap-01-demo]: First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb
+[chap-01-demo-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb
+[chap-01-demo-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Demo.ipynb
+[chap-01-exercises]: First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb
+[chap-01-exercises-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb
+[chap-01-exercises-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2001%20-%20Exercises.ipynb
+[chap-02-demo]: First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb
+[chap-02-demo-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb
+[chap-02-demo-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Demo.ipynb
+[chap-02-exercises]: First%20Steps%20-%20Chap%2002%20-%20Exercises.ipynb
+[chap-02-exercises-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Exercises.ipynb
+[chap-02-exercises-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2002%20-%20Exercises.ipynb
+[chap-03-demo]: First%20Steps%20-%20Chap%2003%20-%20Demo.ipynb
+[chap-03-demo-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Demo.ipynb
+[chap-03-demo-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Demo.ipynb
+[chap-03-exercises]: First%20Steps%20-%20Chap%2003%20-%20Exercises.ipynb
+[chap-03-exercises-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Exercises.ipynb
+[chap-03-exercises-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Chap%2003%20-%20Exercises.ipynb
+[workshop]: First%20Steps%20-%20Workshop.ipynb
+[workshop-colab]: https://colab.research.google.com/github/cstar-industries/python-3-beginner/blob/master/001-First-Steps/First%20Steps%20-%20Workshop.ipynb
+[workshop-notebook]: https://github.com/cstar-industries/python-3-beginner/raw/master/001-First-Steps/First%20Steps%20-%20Workshop.ipynb
