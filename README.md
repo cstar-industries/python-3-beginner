@@ -6,6 +6,7 @@ Welcome to Python 3 Beginner! You will find here all the material for the Python
 - [Session 02: Control Flow](002-Control-Flow)
 - [Session 03: Data Structures](003-Data-Structures)
 - [Session 04: Functions and More](004-Functions-And-More)
+- [Session 05: The Python Standard Library](005-Python-Standard-Library)
 
 # Copyright notice
 
