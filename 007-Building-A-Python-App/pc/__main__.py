@@ -1,11 +1,9 @@
-#!/usr/bin/env python3
-
-from calc import PocketCalculator
-import parser
-from parser import Token
+from pc.calc import PocketCalculator
+from pc import parser
+from pc.parser import Token
 
 
-if __name__ == "__main__":
+def main_loop():
     calc = PocketCalculator()
     current_op = None
     while True:
@@ -42,3 +40,7 @@ if __name__ == "__main__":
                 current_op = None
 
     print('Bye')
+
+
+if __name__ == "__main__":
+    main_loop()
