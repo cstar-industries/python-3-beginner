@@ -30,7 +30,7 @@ venv\Scripts\activate.bat   ## For Windows
 Once you've activated the venv, install required dependencies with [`pip`](https://pip.pypa.io/en/stable/).
 
 ```shell
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 ```
 
 ### Testing
