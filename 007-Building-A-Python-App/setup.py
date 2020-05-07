@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="pc",  # Replace with your own username
+    name="pc",
     version="0.0.1",
     author="Charles Francoise",
     author_email="chrales@chrales.dev",
