@@ -1,6 +1,5 @@
-from pc.calc import PocketCalculator
-from pc import parser
-from pc.parser import Token
+from .calc import PocketCalculator
+from .parser import parse, Token, ParseError
 
 
 def main_loop():
@@ -12,8 +11,8 @@ def main_loop():
 
         inp = input('>>> ')
         try:
-            tok = parser.parse(inp)
-        except parser.ParseError as err:
+            tok = parse(inp)
+        except ParseError as err:
             print(err)
             continue
 
