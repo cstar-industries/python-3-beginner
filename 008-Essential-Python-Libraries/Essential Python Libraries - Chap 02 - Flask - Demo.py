@@ -16,6 +16,20 @@ def echo():
     return res
 
 
+@app.route('/echo', methods=['POST'])
+def echo_post():
+    msg = request.form.get('msg')
+    res = f'<html><body><h1>{msg}</h1></html>'
+    return res
+
+
+@app.route('/echo.json', methods=['POST'])
+def echo_json():
+    msg = request.json.get('msg')
+    res = {'echo': msg}
+    return res
+
+
 @app.route('/random_numbers')
 def random_numbers():
     try:
