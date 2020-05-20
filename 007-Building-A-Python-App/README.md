@@ -17,7 +17,7 @@ cd 007-Building-A-Python-App
 
 ### Activating the virtual environment
 
-A [virtual environment (venv)](https://docs.python.org/3/library/venv.html) makes sure you use a localized version of the Python interpreter and installed packages.
+A [virtual environment (venv)](https://docs.python.org/3/library/venv.html) makes sure you use a fixed local version of the Python interpreter and installed packages.
 
 ```shell
 python3 -m venv venv
